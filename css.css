@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(243, 243, 243);
+}
+
+#div{
+    width: 20rem;
+    height: 14rem;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+button{
+    background-color: rgb(48, 131, 0);
+    color: white;
+    padding: 0.5rem;
+}
+button:hover{
+    border: 2px solid rgb(166, 255, 0);
+    border-style:double;
+}
